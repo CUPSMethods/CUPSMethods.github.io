@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Fall 2016
+title: Schedule
 ---
+
+## Fall 2016
 
 The workshop will meet on **Fridays 2.30-4.30pm in Room 707 [International Affairs Building](http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html)**, except where otherwise noted below.
 

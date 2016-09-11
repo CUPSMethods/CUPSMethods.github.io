@@ -33,10 +33,5 @@ github:
   repo:           https://github.com/CUPSMethods/CUPSMethods.github.io
 
 gems:
-  - jemoji
-  - jekyll-mentions
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-paginate
