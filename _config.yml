@@ -1,6 +1,6 @@
-name: Solar Theme
+name: Methods Workshop
 url: http://example.org
-description: A stylish blog using the Solarized color palette
+description: Columbia University | Department of Political Science
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
