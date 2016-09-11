@@ -4,18 +4,18 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Methods Workshop
+tagline:          'CUPS Methods Workshop'
+description:      'The Columbia Political Science Methods Workshop is a grad student led series introducing various applied statistical methods and topics in statistical computing. Our primary constituency is comprised of PhD students and faculty in the political science department at Columbia. All CU-affiliated graduate students and faculty are also welcome. Individuals not currently affiliated with CU who wish to attend should contact the coordinators in advance. 2016-2017 Coordinators:
+<a href="mailto:tl2624@columbia.edu" target="_top">Tom Leavitt</a> and <a href="mailto:gs2716@columbia.edu" target="_top">Gosha Syunyaev</a>.'
+url:              http://cupsmethods.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Georgiy Syunyaev'
+  url:            https://gerasy1987.github.io
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/CUPSMethods/CUPSMethods.github.io
