@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Computing FAQ
+order: 3
 ---
 
 This page includes information on selected frequently asked questions relevant to setting up software and program files to follow along during the workshop. This is not a statistical consulting service; we do not respond to unsolicited inquiries. This page is updated as needed per the discretion of the workshop coordinators and presenters.

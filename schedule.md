@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Schedule
+order: 2
 ---
 
 ## Fall 2016
