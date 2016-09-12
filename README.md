@@ -1,5 +1,5 @@
 
-# Columbia University Department of Political Science Methods Workshop Website
+# Columbia Political Science Methods Workshop Website
 
 Site is maintained by [Georgiy Syunyaev](https://github.com/gerasy1987/)
 
