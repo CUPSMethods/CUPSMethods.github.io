@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<h1>Fall 2016</h1>
+<h1>Fall 2016 Schedule</h1>
 
 The workshop will meet on <strong>Fridays 2.30-4.30pm in Room 707 <a href="http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html">International Affairs Building</a></strong>, except where otherwise noted below.
 <br><br>
@@ -70,6 +70,14 @@ The workshop will meet on <strong>Fridays 2.30-4.30pm in Room 707 <a href="http:
         {{ post.title }}
       </a>
     </h1>
+
+    {% if site.show-tags %}
+    <div class="post-tags">
+        {% for tag in post.tags %}
+            <rt class="boxed">{{ tag }}</rt>
+        {% endfor %}
+    </div>
+    {% endif %}
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 

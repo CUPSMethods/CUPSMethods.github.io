@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Regression Discontinuity
+tag:
+- regression discontinuity
+- statistics
+- R
 ---
 
 *Presenters: Albert Fang, Gabriella Sacramone-Lutz*

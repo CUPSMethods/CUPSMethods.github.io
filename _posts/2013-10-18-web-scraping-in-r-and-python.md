@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Web Scraping in R and Python
+tag:
+- web scraping
+- computational methods
+- R
+- Python
 ---
 
 *Presenters: Andy Guess, Sung Eun Kim*

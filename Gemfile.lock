@@ -135,6 +135,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-github-metadata
+  jekyll-seo-tag
 
 BUNDLED WITH
    1.13.0

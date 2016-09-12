@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Intro to Machine Learning
+tag:
+- machine learning
+- computational methods
+- R
 ---
 
 *Presenter: Grant Gordon*

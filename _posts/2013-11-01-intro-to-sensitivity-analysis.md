@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Intro to Sensitivity Analysis
+tag:
+- sensitivity analysis
+- statistics
+- R
 ---
 
 *Presenters: Alex Coppock, Albert Fang*

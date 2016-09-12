@@ -352,6 +352,24 @@ tbody tr:nth-child(odd) th {
   color: #9a9a9a;
 }
 
+.post-tags {
+  font-size: 75%;
+  display: block;
+  margin-top: -.5rem;
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+
+.boxed {
+  text-transform: uppercase;
+  padding-top: 0.2rem;
+  padding-bottom: 0.1rem;
+  padding-right: 0.25rem;
+  padding-left: 0.25rem;
+  border-radius: 10px;
+  background-color: #cccccc;
+}
+
 /* Related posts */
 .related {
   padding-top: 2rem;

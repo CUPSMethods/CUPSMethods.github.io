@@ -1,6 +1,10 @@
 ---
 layout: post
 title: List Experiments
+tag:
+- list experiments
+- statistics
+- R
 ---
 
 *Presenter: Alex Coppock, Alissa Stollwerk, Trish Kirkland, Dane Thorley*

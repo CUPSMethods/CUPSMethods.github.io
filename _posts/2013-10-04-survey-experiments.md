@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Survey Experiments
+tag:
+- survey experiments
+- statistics
+- R
 ---
 
 *Presenters: Sarah Khan, Dane Thorley, Lauren Young*
