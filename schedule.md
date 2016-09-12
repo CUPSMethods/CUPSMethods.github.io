@@ -9,7 +9,7 @@ The workshop will meet on **Fridays 2.30-4.30pm in Room 707 [International Affai
 
 | Date | Topic | Presenter |
 |:------|:-----|:---------------|
-| 09 Sep 2016 | **[Workflow](https://cupsmethods.wordpress.com/fall-2016/workflow/)** | Abhit Bhandari |
+| 09 Sep 2016 | **[Workflow](https://cupsmethods.github.io/workflow/)** | Abhit Bhandari |
 | 23 Sep 2016 | **Introduction to Python** | Joe Sutherland |
 | 07 Oct 2016 | **Social Network Analysis** | Jeff Jacobs |
 | 14 Oct 2016 | **Applied Social Network Analysis** | John Marshall |
@@ -55,12 +55,12 @@ The workshop will meet on **Fridays 2.30-4.30pm in Room 707 [International Affai
 
 | Date | Topic | Presenter |
 |:------|:-----|:---------------|
-| 27 Sep 2013 | [Regression Discontinuity](http://cupsmethods.wordpress.com/past_workshops/f13_rd/) | Albert Fang, Gabriella Sacramone-Lutz |
+| 27 Sep 2013 | [Regression Discontinuity](http://cupsmethods.github.io/regression-discontinuity) | Albert Fang, Gabriella Sacramone-Lutz |
 | 4 Oct 2013 | [Survey Experiments](http://cupsmethods.wordpress.com/past_workshops/f13_svyexp/) | Sarah Khan, Dane Thorley, Lauren Young |
 | 18 Oct 2013 | [Web Scraping in R and Python](http://cupsmethods.wordpress.com/past_workshops/f13_scraping/ ‎) | Andy Guess, Sung Eun Kim |
-| 1 Nov 2013 | [Intro to Sensitivity Analysis](http://cupsmethods.wordpress.com/past_workshops/f13_sa/) | Alex Coppock, Albert Fang |
-| 15 Nov 2013 | [List Experiments](http://cupsmethods.wordpress.com/past_workshops/f13_listexp/ ‎) | Alex Coppock, Alissa Stollwerk, Trish Kirkland, Dane Thorley |
-| 2 Dec 2013 | [Intro to Machine Learning](http://cupsmethods.wordpress.com/past_workshops/f13_introml/) | Grant Gordon |
+| 1 Nov 2013 | [Intro to Sensitivity Analysis](http://cupsmethods.github.io/intro-to-sensitivity-analysis/) | Alex Coppock, Albert Fang |
+| 15 Nov 2013 | [List Experiments](http://cupsmethods.github.io/list-experiments/ ‎) | Alex Coppock, Alissa Stollwerk, Trish Kirkland, Dane Thorley |
+| 2 Dec 2013 | [Intro to Machine Learning](http://cupsmethods.github.io/intro-to-machine-learning/) | Grant Gordon |
 
 * * *
 
