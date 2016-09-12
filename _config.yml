@@ -29,7 +29,6 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-github:
 repository:            CUPSMethods/CUPSMethods.github.io
 
 gems:
