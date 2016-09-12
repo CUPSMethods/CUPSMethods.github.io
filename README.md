@@ -1,4 +1,19 @@
-# Hyde
+
+## Columbia University Department of Political Science Methods Workshop Website
+
+## Theme Author
+
+**Mark Otto**
+- <https://github.com/mdo>
+- <https://twitter.com/mdo>
+
+## License
+
+Open sourced under the [MIT license](LICENSE.md).
+
+<3
+
+<!-- # Hyde
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
@@ -63,7 +78,7 @@ By default Hyde ships with a sidebar that affixes it's content to the bottom of 
 ```
 
 
-### Themes
+<!-- ### Themes
 
 Hyde ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
 
@@ -103,16 +118,5 @@ Hyde has two branches, but only one is used for active development.
 - `master` for development.  **All pull requests should be submitted against `master`.**
 - `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
 
+ -->
 
-## Author
-
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
-
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
