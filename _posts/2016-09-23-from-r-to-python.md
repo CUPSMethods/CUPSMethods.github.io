@@ -28,5 +28,5 @@ It’s not always easy to let go, but in this case the reward far outweighs the 
 
 ### Booting Jupyter notebook
 
-To boot the notebook, simply: `jupyter notebook` (on PC it is sometimes `jupyter notepad`) from the command line.
+To boot the notebook, simply: `jupyter notebook` (on PC it is sometimes `jupyter notepad`) from the [command line](https://www.davidbaumgold.com/tutorials/command-line/).
 
