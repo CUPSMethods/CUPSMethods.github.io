@@ -4,7 +4,8 @@ title: 'How I Learned to Let Go and Love Python: An R Story'
 tag:
 - jupyter notebook
 - homebrew
-- Pyhton
+- Python
+- R
 ---
 
 *Presenters: Joe Sutherland*
