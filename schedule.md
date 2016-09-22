@@ -4,7 +4,7 @@ title: Schedule
 order: 2
 ---
 
-## Fall 2016
+## 2016-2017 Academic Year
 
 The workshop will meet on **Fridays 2.30-4.30pm in Room 707 [International Affairs Building](http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html)**, except where otherwise noted below.
 
@@ -18,6 +18,14 @@ The workshop will meet on **Fridays 2.30-4.30pm in Room 707 [International Affai
 | 04 Nov 2016 | **Observational Studies** | Tom Leavitt |
 | 18 Nov 2016 | *TBD* | Andrew Gelman |
 | 02 Dec 2016 | **Bayesian Approach to Exclusion Restriction** | Rick McAlexander |
+| 20 Jan 2017 | **Identification Driven Research** | John Huber |
+| 03 Feb 2017 | **Integration of Formal Theory and Quantititative Methods** | Tara Slough |
+| 17 Feb 2017 | **Application of Formal Theory and Quant Methods** | Carlo Prato |
+| 03 Mar 2017 | **Bayesian Causal Inference** | Anna Wilke, Gosha Syunyaev |
+| 24 Mar 2017 | **Measurement** | Tara Slough |
+| 07 Apr 2017 | **Qualitative Methods** | Yegor Lazarev |
+| 21 Apr 2017 | **Web Scraping** | Erin York |
+| 05 May 2017 | **RDD as Local Randomized Experiment** | Tom Leavitt |
 
 * * *
 
