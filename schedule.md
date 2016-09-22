@@ -10,8 +10,8 @@ The workshop will meet on **Fridays 2.30-4.30pm in Room 707 [International Affai
 
 | Date | Topic | Presenter |
 |:------|:-----|:---------------|
-| 09 Sep 2016 | **[Workflow](https://cupsmethods.github.io/workflow/)** | Abhit Bhandari |
-| 23 Sep 2016 | **[How I Learned to Let Go and Love Python: An R Story](https://cupsmethods.github.io/from-r-to-python/)** | Joe Sutherland |
+| 09 Sep 2016 | **[Workflow](https://cupsmethods.github.io/workflow/)** | [Abhit Bhandari](http://polisci.columbia.edu/people/profile/1322) |
+| 23 Sep 2016 | **[How I Learned to Let Go and Love Python: An R Story](https://cupsmethods.github.io/from-r-to-python/)** | [Joe Sutherland](http://polisci.columbia.edu/people/profile/1631) |
 | 07 Oct 2016 | **Social Network Analysis** | Jeff Jacobs |
 | 14 Oct 2016 | **Applied Social Network Analysis** | John Marshall |
 | 28 Oct 2016 | **Text Analysis** | Joe Sutherland |
