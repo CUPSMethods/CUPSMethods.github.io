@@ -2,6 +2,10 @@
 markdown:         kramdown
 highlighter:      rouge
 
+external-image: false
+picture: 'assets/images/websitepic.jpeg'
+
+
 kramdown:
   # use Github Flavored Markdown
   input: GFM
@@ -14,7 +18,7 @@ kramdown:
 permalink:        /:title/
 
 # Setup
-title:            Methods Workshop
+title:            'Methods Workshop'
 tagline:          'Department of Political Science Columbia University'
 description:      'The Columbia Political Science Methods Workshop is a grad student led series introducing various applied statistical and formal methods and topics in statistical computing. Our primary constituency is comprised of PhD students and faculty in the political science department at Columbia. All CU-affiliated graduate students and faculty are also welcome. Individuals not currently affiliated with CU who wish to attend should contact the coordinators in advance.<br><br>2016-2017 Coordinators:<br> <a href="mailto:tl2624@columbia.edu" target="_top">Tom Leavitt</a><br><a href="mailto:gs2716@columbia.edu" target="_top">Gosha Syunyaev</a>'
 url:              http://cupsmethods.github.io
@@ -35,8 +39,9 @@ github:                CUPSMethods
 repository:            CUPSMethods/CUPSMethods.github.io
 
 gems:
+  - jekyll-mentions
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-github-metadata
-  - jekyll-seo-tag
