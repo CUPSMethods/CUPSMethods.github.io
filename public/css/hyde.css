@@ -53,8 +53,26 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
+  overflow: hidden;
 }
 @media (min-width: 48em) {
+  .sidebar:hover {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 20rem;
+    text-align: left;
+    overflow-y: scroll;
+  }
+}
+#contact-list {
+      float:left;
+      padding-left: 50px;
+      padding-top : -5px;
+      padding-bottom: 5px;
+    }
+@media (min-width: 48rem) {
   .sidebar {
     position: fixed;
     top: 0;
@@ -62,8 +80,8 @@ html {
     bottom: 0;
     width: 20rem;
     text-align: left;
+    overflow: hidden;
   }
-}
 
 /* Sidebar links */
 .sidebar a {
@@ -74,8 +92,13 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  /*font-family: "Abril Fatface", serif;*/
+  font-family: 'Limelight', cursive;
   font-size: 3rem;
+}
+
+.sidebar-description {
+  font-size: 1rem;
 }
 
 .lead {
@@ -104,14 +127,14 @@ a.sidebar-nav-item:focus {
  * contents to the bottom of the sidebar in tablets and up.
  */
 
-@media (min-width: 48em) {
+/*@media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
     bottom: 1rem;
     left:   1rem;
   }
-}
+}*/
 
 
 /* Container
