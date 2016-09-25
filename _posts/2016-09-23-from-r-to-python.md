@@ -32,4 +32,4 @@ To boot the notebook, simply: `jupyter notebook` (on PC it is sometimes `jupyter
 
 ### Link to Workshop Materials
 
-- [Github Repository with Materials](https://github.com/jlsutherland/learn-to-love-python) (to get the materials on your computer you either need to [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and then `git clone https://github.com/jlsutherland/learn-to-love-python.git` in your command line, or simply download zip-file directly from github)
+- [Github Repository with Materials](https://github.com/jlsutherland/learn-to-love-python) (to get the materials on your computer you either need to [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and then `git clone https://github.com/jlsutherland/learn-to-love-python.git` in your command line, or simply download _.zip_ file directly from github using clone or download button).

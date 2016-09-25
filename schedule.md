@@ -25,7 +25,7 @@ The workshop will meet on **Fridays 2.30-4.30pm in Room 707 [International Affai
 | 24 Mar 2017 | **Measurement** | Tara Slough |
 | 07 Apr 2017 | **Qualitative Methods** | Yegor Lazarev |
 | 21 Apr 2017 | **Web Scraping** | Erin York |
-| 05 May 2017 | **RDD as Local Randomized Experiment** | Tom Leavitt |
+| 05 May 2017 | **Regression Discontinuity Design** | Trish Kirkland |
 
 * * *
 
