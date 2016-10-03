@@ -23,7 +23,7 @@ The workshop will meet on **Fridays 2.30-4.30pm in Room 707 [International Affai
 | 17 Feb 2017 | **Application of Formal Theory and Quant Methods** | Carlo Prato |
 | 03 Mar 2017 | **Bayesian Causal Inference** | Anna Wilke, Gosha Syunyaev |
 | 24 Mar 2017 | **Measurement** | Tara Slough |
-| 07 Apr 2017 | **Qualitative Methods** | Yegor Lazarev |
+| 07 Apr 2017 | **Qualitative Methods** | Stephanie Schwartz |
 | 21 Apr 2017 | **Web Scraping** | Erin York |
 | 05 May 2017 | **Regression Discontinuity Design** | Trish Kirkland |
 
