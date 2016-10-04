@@ -115,6 +115,8 @@ echo "title: \'${POST_TITLE}\'"
 echo "description:"
 echo "tag:"
 echo "---"
+echo ""
+echo "*Presenters:*"
 
 }
 
