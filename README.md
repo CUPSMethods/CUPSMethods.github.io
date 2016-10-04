@@ -21,6 +21,8 @@ title: How to replace strings with sed
 description:
 tag:
 ---
+
+*Presenters:*
 ```
 
 3. Add links to the `cupsmethods.github.io/how-to-replace-strings-with-sed/` in `schedule.md` and `index.html`
