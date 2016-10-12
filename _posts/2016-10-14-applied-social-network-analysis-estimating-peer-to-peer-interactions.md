@@ -15,4 +15,4 @@ I'm going to be presenting results from the working paper, which uses shocks to 
 
 ### Link to Workshop Materials
 
-*The materials will be posted here after the seminar*
+*Slides for the presentation will be posted here after the workshop*
