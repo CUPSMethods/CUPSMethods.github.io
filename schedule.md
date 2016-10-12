@@ -13,7 +13,7 @@ The workshop will meet on **Fridays 2.30-4.30pm in Room 707 [International Affai
 | 09 Sep 2016 | **[Workflow](https://cupsmethods.github.io/workflow/)** | [Abhit Bhandari](http://polisci.columbia.edu/people/profile/1322) |
 | 23 Sep 2016 | **[How I Learned to Let Go and Love Python: An R Story](https://cupsmethods.github.io/from-r-to-python/)** | [Joe Sutherland](http://polisci.columbia.edu/people/profile/1631) |
 | 07 Oct 2016 | **[Social Network Analysis](https://cupsmethods.github.io/social-network-analysis/)** | [Jeff Jacobs](http://cs.stanford.edu/people/jjacobs3/) |
-| 14 Oct 2016 | **Applied Social Network Analysis** | John Marshall |
+| 14 Oct 2016 | **[Applied Social Network Analysis: Estimating Peer to Peer Interactions](https://cupsmethods.github.io/applied-social-network-analysis-estimating-peer-to-peer-interactions/)** | [John Marshall](http://scholar.harvard.edu/jmarshall) |
 | 28 Oct 2016 | **Text Analysis** | Joe Sutherland |
 | 04 Nov 2016 | **Observational Studies** | Tom Leavitt |
 | 18 Nov 2016 | *TBD* | Andrew Gelman |
