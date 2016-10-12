@@ -7,7 +7,7 @@ tag:
 - Network Estimation
 ---
 
-*Presenters: John Marshall*
+*Presenter: John Marshall*
 
 ### Plan
 

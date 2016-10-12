@@ -8,7 +8,7 @@ tag:
 - R
 ---
 
-*Presenters: Joe Sutherland*
+*Presenter: Joe Sutherland*
 
 [Link to the original post](http://jlsutherland.com/essential-hacking/2016/09/22/jupyter-notebook.html)
 

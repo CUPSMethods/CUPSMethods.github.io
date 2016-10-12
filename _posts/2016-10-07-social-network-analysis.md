@@ -6,7 +6,7 @@ tag:
 - Python
 ---
 
-*Presenters: Jeff Jacobs*
+*Presenter: Jeff Jacobs*
 
 ### Plan
 
