@@ -15,4 +15,4 @@ I'm going to be presenting results and intended analyses from a working paper, w
 
 ### Link to Workshop Materials
 
-*Slides for the presentation will be posted here after the workshop*
+- [Slides for the presentation](https://www.dropbox.com/s/6dtsz78z5kbpqzb/Columbia%20Presentation.pdf?dl=0)
