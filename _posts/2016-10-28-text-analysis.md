@@ -25,4 +25,4 @@ We will use `python` and `homebrew` to install additional packages, so please ma
 
 ### Link to Workshop Materials
 
-_Workshop materials will be posted here later_
+- Workshop presentation and useful materials for learning about text analysis can be found in this [Dropbox Folder](https://www.dropbox.com/sh/z7xlukffnbmfigt/AADcvsQ7tydytdmkoGZCmq1ta?dl=0).
