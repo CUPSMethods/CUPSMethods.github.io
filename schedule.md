@@ -10,22 +10,21 @@ The workshop will meet on **Fridays 2.30-4.30pm in Room 707 [International Affai
 
 | Date | Topic | Presenter |
 |:------|:-----|:---------------|
-| 09 Sep 2016 | **[Workflow](https://cupsmethods.github.io/workflow/)** | [Abhit Bhandari](http://polisci.columbia.edu/people/profile/1322) |
-| 23 Sep 2016 | **[How I Learned to Let Go and Love Python: An R Story](https://cupsmethods.github.io/from-r-to-python/)** | [Joe Sutherland](http://polisci.columbia.edu/people/profile/1631) |
-| 07 Oct 2016 | **[Social Network Analysis](https://cupsmethods.github.io/social-network-analysis/)** | [Jeff Jacobs](http://cs.stanford.edu/people/jjacobs3/) |
-| 14 Oct 2016 | **[Applied Social Network Analysis](https://cupsmethods.github.io/applied-social-network-analysis-estimating-peer-to-peer-interactions/)** | [John Marshall](http://polisci.columbia.edu/people/profile/1682) |
+| 09 Sep 2016 | **[Workflow](https://cupsmethods.github.io/workflow/)** | [Abhit Bhandari](http://polisci.columbia.edu/people/profile/1322) |
+| 23 Sep 2016 | **[How I Learned to Let Go and Love Python: An R Story](https://cupsmethods.github.io/from-r-to-python/)** | [Joe Sutherland](http://polisci.columbia.edu/people/profile/1631) |
+| 07 Oct 2016 | **[Social Network Analysis](https://cupsmethods.github.io/social-network-analysis/)** | [Jeff Jacobs](http://cs.stanford.edu/people/jjacobs3/) |
+| 14 Oct 2016 | **[Applied Social Network Analysis](https://cupsmethods.github.io/applied-social-network-analysis-estimating-peer-to-peer-interactions/)** | [John Marshall](http://polisci.columbia.edu/people/profile/1682) |
 | 28 Oct 2016 | **[Text Analysis](https://cupsmethods.github.io/text-analysis/)** | [Joe Sutherland](http://polisci.columbia.edu/people/profile/1631) |
-| 04 Nov 2016 | **Observational Studies** | Tom Leavitt |
-| 18 Nov 2016 | *TBD* | Andrew Gelman |
-| 02 Dec 2016 | **Bayesian Approach to Exclusion Restriction** | Rick McAlexander |
-| 20 Jan 2017 | **Identification Driven Research** | John Huber |
-| 03 Feb 2017 | **Integration of Formal Theory and Quantititative Methods** | Tara Slough |
-| 17 Feb 2017 | **Application of Formal Theory and Quant Methods** | Carlo Prato |
-| 03 Mar 2017 | **Bayesian Causal Inference** | Anna Wilke, Gosha Syunyaev |
+| 18 Nov 2016 | *TBD* | Andrew Gelman |
+| 02 Dec 2016 | **Bayesian Approach to Exclusion Restriction** | Rick McAlexander |
+| 20 Jan 2017 | **Identification Driven Research** | John Huber |
+| 03 Feb 2017 | **Integration of Formal Theory and Quantititative Methods** | Tara Slough |
+| 17 Feb 2017 | **Application of Formal Theory and Quant Methods** | Carlo Prato |
+| 03 Mar 2017 | **Bayesian Causal Inference** | Anna Wilke, Gosha Syunyaev |
 | 24 Mar 2017 | **Measurement** | Tara Slough |
 | 07 Apr 2017 | **Qualitative Methods** | Stephanie Schwartz |
-| 21 Apr 2017 | **Web Scraping** | Erin York |
-| 05 May 2017 | **Regression Discontinuity Design** | Trish Kirkland |
+| 21 Apr 2017 | **Web Scraping** | Erin York |
+| 05 May 2017 | **Regression Discontinuity Design** | Trish Kirkland |
 
 * * *
 
