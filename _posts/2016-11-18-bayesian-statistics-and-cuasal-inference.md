@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bayesian Statistics and Cuasal Inference'
+title: 'Q&A on Bayesian Statistics and Cuasal Inference'
 tag:
 - Bayesian Statistcis
 - Causal Inference
