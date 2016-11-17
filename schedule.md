@@ -15,7 +15,7 @@ The workshop will meet on **Fridays 2.30-4.30pm in Room 707 [International Affai
 | 07 Oct 2016 | **[Social Network Analysis](https://cupsmethods.github.io/social-network-analysis/)** | [Jeff Jacobs](http://cs.stanford.edu/people/jjacobs3/) |
 | 14 Oct 2016 | **[Applied Social Network Analysis](https://cupsmethods.github.io/applied-social-network-analysis-estimating-peer-to-peer-interactions/)** | [John Marshall](http://polisci.columbia.edu/people/profile/1682) |
 | 28 Oct 2016 | **[Text Analysis](https://cupsmethods.github.io/text-analysis/)** | [Joe Sutherland](http://polisci.columbia.edu/people/profile/1631) |
-| 18 Nov 2016 | **[Q&A on Bayesian Statistics and Cuasal Inference](https://cupsmethods.github.io/bayesian-statistics-and-cuasal-inference/)** | [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) |
+| 18 Nov 2016 | **[Q&A on Bayesian Statistics and Causal Inference](https://cupsmethods.github.io/bayesian-statistics-and-cuasal-inference/)** | [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) |
 | 02 Dec 2016 | **Bayesian Approach to Exclusion Restriction** | Rick McAlexander |
 | 20 Jan 2017 | **Identification Driven Research** | John Huber |
 | 03 Feb 2017 | **Integration of Formal Theory and Quantititative Methods** | Tara Slough |
