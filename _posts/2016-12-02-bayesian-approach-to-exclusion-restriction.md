@@ -14,5 +14,5 @@ Many works in political science use an instrumental variables (IV) regression to
 
 ### Link to Workshop Materials
 
-- [Slides for the presentation](https://www.dropbox.com/s/yh97pjxf5ysoum2/iv_relax_presentation.pdf?dl=0)
-- [Example `R` Script](https://www.dropbox.com/s/1hbdq5ws4ugggm5/example_workshop_script.R?dl=0)
+- [Slides for the presentation](https://dl.dropboxusercontent.com/s/yh97pjxf5ysoum2/iv_relax_presentation.pdf?dl=0)
+- [Example `R` Script](https://dl.dropboxusercontent.com/s/1hbdq5ws4ugggm5/example_workshop_script.R?dl=0)
