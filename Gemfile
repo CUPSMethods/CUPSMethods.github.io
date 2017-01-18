@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'http://rubygems.org'
 
 gem 'github-pages'
 gem 'rake'
@@ -12,3 +12,4 @@ gem 'jekyll-seo-tag'
 gem 'jekyll-feed'
 gem 'jekyll-sitemap'
 gem 'jekyll-gist'
+gem 'json', github: 'flori/json', branch: 'v1.8'

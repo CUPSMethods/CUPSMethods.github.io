@@ -1,5 +1,12 @@
+GIT
+  remote: git://github.com/flori/json.git
+  revision: 7f4cfd853f2c919d854fb95548a19980feff17e8
+  branch: v1.8
+  specs:
+    json (1.8.6)
+
 GEM
-  remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
     activesupport (4.2.7)
       i18n (~> 0.7)
@@ -100,7 +107,6 @@ GEM
       gemoji (~> 2.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0)
-    json (1.8.3)
     kramdown (1.11.1)
     liquid (3.0.6)
     listen (3.0.6)
@@ -110,6 +116,7 @@ GEM
     mini_portile2 (2.1.0)
     minima (1.1.0)
     minitest (5.9.0)
+    multi_json (1.12.1)
     multipart-post (2.0.0)
     net-dns (0.8.0)
     nokogiri (1.6.8)
@@ -121,11 +128,9 @@ GEM
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     pkg-config (1.1.7)
-    posix-spawn (0.3.11)
     public_suffix (1.5.3)
-    pygments.rb (0.6.3)
-      posix-spawn (~> 0.3.6)
-      yajl-ruby (~> 1.2.0)
+    pygments.rb (1.1.1)
+      multi_json (>= 1.0.0)
     rake (10.5.0)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
@@ -144,7 +149,6 @@ GEM
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     unicode-display_width (1.1.1)
-    yajl-ruby (1.2.1)
     yell (2.0.5)
 
 PLATFORMS
@@ -160,9 +164,10 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   jemoji
+  json!
   pygments.rb
   rake
   rouge
 
 BUNDLED WITH
-   1.13.1
+   1.13.7
