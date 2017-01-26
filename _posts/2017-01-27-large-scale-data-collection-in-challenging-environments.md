@@ -7,6 +7,8 @@ tag:
 - Field Research
 ---
 
+**ROOM/TIME CHANGE: IAB 711, 3:30-5:30pm**
+
 *Presenter: Jasper Cooper*
 
 ### Plan
