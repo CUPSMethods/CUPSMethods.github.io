@@ -18,7 +18,7 @@ The workshop will meet on **Fridays 2:30-4:30pm in Room 707 [International Affai
 | 18 Nov 2016 | **[Q&A on Bayesian Statistics and Causal Inference](https://cupsmethods.github.io/bayesian-statistics-and-cuasal-inference/)** | [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) |
 | 02 Dec 2016 | **[Bayesian Approach to Exclusion Restriction](https://cupsmethods.github.io/bayesian-approach-to-exclusion-restriction/)** | [Rick McAlexander](http://polisci.columbia.edu/people/profile/1505) |
 | <strike>20 Jan 2017</strike> | <strike>Identification Driven Research</strike> **(Cancelled)** | John Huber |
-| 27 Jan 2017 <br> <strong>(<a href="http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html">IAB</a> 711, 3:30pm)</strong> | **[Large Scale Data Collection in Challenging Environments](https://cupsmethods.github.io/large-scale-data-collection-in-challenging-environments/)** | [Jasper Cooper](http://jasper-cooper.com/) |
+| 27 Jan 2017 <br> <strong>(<a href="http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html">IAB</a> 711, 4:00pm)</strong> | **[Large Scale Data Collection in Challenging Environments](https://cupsmethods.github.io/large-scale-data-collection-in-challenging-environments/)** | [Jasper Cooper](http://jasper-cooper.com/) |
 | 03 Feb 2017 | **Integration of Formal Theory and Quantititative Methods** | Tara Slough |
 | 17 Feb 2017 | **Application of Formal Theory and Quant Methods** | Carlo Prato |
 | 03 Mar 2017 | **Bayesian Causal Inference** | Anna Wilke, Gosha Syunyaev |
