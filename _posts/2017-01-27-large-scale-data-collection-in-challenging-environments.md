@@ -28,4 +28,4 @@ I will draw examples principally from my experiences implementing large scale da
 
 ### Link to Workshop Materials
 
-*The materials will be posted here after the workshop*
+- [Slides for the presentation](https://dl.dropboxusercontent.com/s/rhyyirogqi0yoj9/cooper_presentation.pdf?dl=0)
