@@ -19,7 +19,7 @@ The workshop will meet on **Fridays 2:30-4:30pm in Room 707 [International Affai
 | 02 Dec 2016 | **[Bayesian Approach to Exclusion Restriction](https://cupsmethods.github.io/bayesian-approach-to-exclusion-restriction/)** | [Rick McAlexander](http://polisci.columbia.edu/people/profile/1505) |
 | <strike>20 Jan 2017</strike> | <strike>Identification Driven Research</strike> **(Cancelled)** | John Huber |
 | 27 Jan 2017 <br> <strong>(<a href="http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html">IAB</a> 711, 4:00pm)</strong> | **[Large Scale Data Collection in Challenging Environments](https://cupsmethods.github.io/large-scale-data-collection-in-challenging-environments/)** | [Jasper Cooper](http://jasper-cooper.com/) |
-| 03 Feb 2017 | **Integration of Formal Theory and Quantititative Methods** | Tara Slough |
+| 03 Feb 2017 | **[Integration of Formal Theory and Quantititative Methods](https://cupsmethods.github.io/integration-of-formal-theory-and-quantitative-methods/)** | [Tara Slough](http://polisci.columbia.edu/people/profile/1334) |
 | 17 Feb 2017 | **Application of Formal Theory and Quant Methods** | Carlo Prato |
 | 03 Mar 2017 | **Bayesian Causal Inference** | Anna Wilke, Gosha Syunyaev |
 | 24 Mar 2017 | **Measurement** | Tara Slough |
