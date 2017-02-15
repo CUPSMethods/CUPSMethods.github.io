@@ -15,4 +15,4 @@ Quantitative (statistical) methods and formal theory represent two "toolkits" ce
 
 ### Link to Workshop Materials
 
-*Materials will be posted here after the workshop*
+- [Slides for the presentation](https://dl.dropboxusercontent.com/s/59l7895sacemsh3/formal_models_methods_workshop.pdf?dl=0)
