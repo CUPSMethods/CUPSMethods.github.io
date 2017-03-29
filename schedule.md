@@ -20,9 +20,8 @@ The workshop will meet on **Fridays 2:30-4:30pm in Room 707 [International Affai
 | 27 Jan 2017 <br> <strong>(<a href="http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html">IAB</a> 711, 4:00pm)</strong> | **[Large Scale Data Collection in Challenging Environments](https://cupsmethods.github.io/large-scale-data-collection-in-challenging-environments/)** | [Jasper Cooper](http://jasper-cooper.com/) |
 | 03 Feb 2017 | **[Integration of Formal Theory and Quantititative Methods](https://cupsmethods.github.io/integration-of-formal-theory-and-quantitative-methods/)** | [Tara Slough](http://polisci.columbia.edu/people/profile/1334) |
 | 17 Feb 2017 | **[Application of Formal Theory](https://cupsmethods.github.io/application-of-formal-theory/)** | [Carlo Prato](http://carloprato.com/) |
-| 03 Mar 2017 | **[Frequentist Principles in the Context of Bayesian Learning](
-)** | [Tom Leavitt](http://polisci.columbia.edu/people/profile/1500) |
-| 31 Mar 2017 <br> <strong>(<a href="http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html">IAB</a> 707, 3:30pm</strong> | **[Measurement](https://cupsmethods.github.io/measurement/)** | [Tara Slough](http://polisci.columbia.edu/people/profile/1334) |
+| 03 Mar 2017 | **[Frequentist Principles in the Context of Bayesian Learning](https://cupsmethods.github.io/frequentist-principles-in-the-context-of-bayesian-learning/)** | [Tom Leavitt](http://polisci.columbia.edu/people/profile/1500) |
+| 31 Mar 2017 <br> <strong>(<a href="http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html">IAB</a> 711, 3:30pm</strong> | **[Measurement](https://cupsmethods.github.io/measurement/)** | [Tara Slough](http://polisci.columbia.edu/people/profile/1334) |
 | 07 Apr 2017 | **Qualitative Methods** | Stephanie Schwartz |
 | 21 Apr 2017 | **Web Scraping** | Erin York |
 | 05 May 2017 | **RDD as Local Randomized Experiments** | Tom Leavitt |
