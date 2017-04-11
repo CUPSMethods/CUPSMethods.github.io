@@ -27,4 +27,4 @@ This presentation will explore ethical considerations for conducting human-subje
 
 ### Links to Workshop Materials
 
-*Will be posted after workshop*
+- [Slides for the presentation](https://dl.dropboxusercontent.com/s/1aghh7pieokikx7/columbia%20methods%20workshop%202017.pptx?dl=0)
