@@ -12,7 +12,8 @@ tag:
 
 We will go over the basics of web scraping and I will introduce two useful packages for doing it in `R` -- `rvest` and `RSelenium`.
 
-**Plese make sure that you have the latest version of Java installed (you can download it [here](https://www.java.com/en/download/manual.jsp)). For those who use `Homebrew/Caskroom` on Mac, you can also update the Java by typing `brew cask reinstall java` (or `brew cask install java` if you didn't have Java installed `Homebrew/Caskroom` before) in your terminal application.**
+- *Plese make sure that you have the latest version of Java installed (you can download it [here](https://www.java.com/en/download/manual.jsp)).*
+- *For those who use `Homebrew/Caskroom` on Mac, you can also update the Java by typing `brew cask reinstall java` (or `brew cask install java` if you didn't have Java installed through `Homebrew/Caskroom` before) in your terminal application.*
 
 ### Links to Workshop Materials
 
