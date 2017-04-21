@@ -20,3 +20,4 @@ We will go over the basics of web scraping and I will introduce two useful packa
 ### Links to Workshop Materials
 
 - [Handout for the presentation](https://dl.dropboxusercontent.com/s/cv57grohm9k4ig8/webscraping_handout.pdf?dl=0)
+- [Slides for the presentation](https://dl.dropboxusercontent.com/s/i5isnpla3eac8kj/webscraping_slides.pdf?dl=0)
