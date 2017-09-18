@@ -19,7 +19,7 @@ See schedule. To stay in the loop, contact the coordinators to join the mailing 
 ### What should I bring? What should I prepare?
 
 - **Recommended readings:** Approx. two weeks before each workshop, a set of recommended readings will be posted here and circulated via email. This covers essential theoretical reading and several applications so you get a sense of the method.
-- **Install software:** You’ll also be instructed to install additional software or R packages. We assume everyone has R installed on their computer.
+- **Install software:** You'll also be instructed to install additional software or R packages. We assume everyone has R installed on their computer.
 - **Set up starter code and data files:** About a day before the session, starter code and data files used in the computing practicum/demo will be distributed via the mailing list.
 - **Bring your laptop, charged, ready to go:** For the workshop, we recommend participants to bring their laptops with requisite software installed, and the code and data ready to go so you can follow along. We highly recommend you set up a local filepath on your computer (not on the shared Dropbox) where you save a copy of active files for each workshop.
 
