@@ -9,7 +9,6 @@ The workshop will meet on **Fridays 2:30-4:30pm in Room 707 [International Affai
 
 | Date <br> (Schedule Change) | Topic | Presenter |
 |:------|:-----|:---------------|
-
 | 22 Sep 2017 | **[How I Learned to Let Go and Love Python:An Introduction](https://cupsmethods.github.io/from-r-to-python/)** | [Joe Sutherland](http://polisci.columbia.edu/people/profile/1631) |
 | 06 Oct 2017 | **[Social Network Analysis](TBD)** | [Jeff Jacobs](http://cs.stanford.edu/people/jjacobs3/) |
 | 20 Oct 2017 | **[Experimental Surveys](TBD)** | [Maria Snegovayas](https://polisci.columbia.edu/content/maria-snegovaya) |
