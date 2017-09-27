@@ -13,7 +13,7 @@ The workshop will meet on **Fridays 2:30-4:30pm in Room 707 [International Affai
 | 06 Oct 2017 | **[Social Network Analysis](TBD)** | [Jeff Jacobs](http://cs.stanford.edu/people/jjacobs3/) |
 | 20 Oct 2017 | **[Experimental Surveys](TBD)** | [Maria Snegovayas](https://polisci.columbia.edu/content/maria-snegovaya) |
 | 3 Nov 2017 | **[GitHub/Collaborative Workflow](TBD)** | [Jasper Cooper](https://polisci.columbia.edu/content/jasper-jack-cooper) |
-| 10 Nov 2017 | <br> <strong>(<a href="http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html">Harriman</a> 1201)</strong>**[Endogenous Units](TBD)** | [Tara Slough](https://polisci.columbia.edu/content/tara-lyn-slough) |
+| 10 Nov 2017  <br> <strong>(<a href="http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html">Harriman</a> 1201)</strong>| **[Endogenous Units](TBD)** | [Tara Slough](https://polisci.columbia.edu/content/tara-lyn-slough) |
 | 17 Nov 2017 | **[Formal Models](TBD)** | [Giovanna Invernizzi](https://polisci.columbia.edu/content/giovanna-maria-invernizzi) |
 | 01 Dec 2017 | **[Covariate Balancing](TBD)** | [Tom Leavitt](https://polisci.columbia.edu/content/tom-leavitt) |
 
