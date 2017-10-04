@@ -16,6 +16,7 @@ Now that we have got our workflow established and our Python distribution instal
 
 1. Follow the setup instructions from [last week](https://cupsmethods.github.io/from-r-to-python/), if you haven't already
 2. Use the `pip` (or `pip3` if you use `python3`) utility to install networkx (`pip install networkx` or `pip3 install networkx`, respectively) and matplotlib (`pip install matplotlib` or `pip3 install matplotlib`) from your terminal.
+3. Download Gephi from https://gephi.org/
 
 ### Link to Workshop Materials
 
