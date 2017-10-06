@@ -10,7 +10,7 @@ tag:
 
 ### Plan
 
-Now that we have got our workflow established and our Python distribution installed, this week we will take a look at [NetworkX](https://networkx.github.io/), a Python library designed for easy creation, analysis, and visualization of network structures. Along the way we'll learn more broadly useful Python "tricks" and data manipulation techniques, so hopefully you can get a lot out of it even if you never end up doing network analysis!
+Now that we have got our Python distribution installed, this week we will take a look at [NetworkX](https://networkx.github.io/), a Python library designed for easy creation, analysis, and visualization of network structures. Along the way we'll learn more broadly useful Python "tricks" and data manipulation techniques, so hopefully you can get a lot out of it even if you never end up doing network analysis!
 
 ### Setup Instructions
 
@@ -20,4 +20,4 @@ Now that we have got our workflow established and our Python distribution instal
 
 ### Link to Workshop Materials
 
-All of the materials for this week are within [this Dropbox folder](https://www.dropbox.com/sh/el6md0ebkpe3kzz/AABHjCTBTcf-j9kNFxHSO721a?dl=0). We will be going through _NetworkX\_Tutorial.pdf_ and examining/running/editing the code examples (`basic_network.py` and `country_network.py`) throughout.
+All of the materials for this week are within [this Dropbox folder](https://www.dropbox.com/sh/f8uaab2wok8fwp8/AABriDMguWnKcleTQ08LDU30a?dl=0). We will be going through _NetworkX\_Tutorial.pdf_ and examining/running/editing the code examples (`basic_network.py` and `country_network.py`) throughout.
