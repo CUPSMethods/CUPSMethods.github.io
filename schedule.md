@@ -14,7 +14,7 @@ The workshop will meet on **Fridays 2:30-4:30pm in Room 707 [International Affai
 | 20 Oct 2017 | **Experimental Surveys** | [Maria Snegovayas](https://polisci.columbia.edu/content/maria-snegovaya) |
 | 27 Oct 2017 <br> <strong>(<a href="http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html">IAB</a> 711, 10:00am)</strong> | **[Conjoint Experiments in Practice](https://www.dropbox.com/s/gus14mq60y8msbx/Conjoint%20Survey%20Analysis.pdf?dl=0)** | [Erin York](https://polisci.columbia.edu/content/erin-ashley-york) and [Alicia Cooperman](https://aliciacooperman.com/)|
 | 3 Nov 2017 | **Sharing and Collaborating on Research using GitHub** | [Jasper Cooper](http://jasper-cooper.com/#about) |
-| 10 Nov 2017 <br> <strong>(<a href="http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html">Harriman</a> 1201)</strong> | **Endogenous Units** | [Tara Slough](https://polisci.columbia.edu/content/tara-lyn-slough) |
+| 10 Nov 2017 <br> <strong>(<a href="http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html">Harriman</a> 1201)</strong> | **Endogenous Units of Analysis** | [Tara Slough](https://polisci.columbia.edu/content/tara-lyn-slough) |
 | 17 Nov 2017 | **Formal Models** | [Giovanna Invernizzi](https://polisci.columbia.edu/content/giovanna-maria-invernizzi) |
 | 01 Dec 2017 | **Covariate Balancing** | [Tom Leavitt](https://polisci.columbia.edu/content/tom-leavitt) |
 
