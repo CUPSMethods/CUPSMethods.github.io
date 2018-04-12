@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Formal Models and Lab Experiments'
+title: 'Causal Inference in Observational Studies'
 tag:
-- Lab experiments
-- Formal models
+- Causal inference
+- Covariate balance
 ---
 
 *Presenter: Tom Leavitt*
