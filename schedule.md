@@ -17,7 +17,7 @@ The workshop will meet on **Fridays 2:30-4:30pm in Room 707 [International Affai
 | 10 Nov 2017 <br> <strong>(<a href="http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html">Harriman</a> 1201)</strong> | **[Endogenous Units of Analysis](https://cupsmethods.github.io/endogenous-units-of-analysis/)** | [Tara Slough](https://polisci.columbia.edu/content/tara-lyn-slough) |
 | 17 Nov 2017 | **[Formal Models and Lab Experiments](https://cupsmethods.github.io/Formal-models-and-lab-experiments/)** | [Giovanna Invernizzi](https://polisci.columbia.edu/content/giovanna-maria-invernizzi) |
 | 01 Dec 2017 | **[Causal Inference in Observational Studies](https://cupsmethods.github.io/Covariate-balance/)** | [Tom Leavitt](https://polisci.columbia.edu/content/tom-leavitt) |
-| 13 April 2018, (IAB 1102) | **[R for GIS](https://cupsmethods.github.io/R-for-GIS/)** | [Oscar Pocasangre](https://polisci.columbia.edu/content/oscar-pocasangre-meneses) |
+| 13 April 2018 <br> <strong> (2:10pm, IAB 1102) </strong> | **[R for GIS](https://cupsmethods.github.io/R-for-GIS/)** | [Oscar Pocasangre](https://polisci.columbia.edu/content/oscar-pocasangre-meneses) |
 
 ## 2016-2017 Academic Year
 
