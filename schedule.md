@@ -18,7 +18,7 @@ The workshop will meet on **Fridays 2:30-4:30pm in Room 707 [International Affai
 | 17 Nov 2017 | **[Formal Models and Lab Experiments](https://cupsmethods.github.io/Formal-models-and-lab-experiments/)** | [Giovanna Invernizzi](https://polisci.columbia.edu/content/giovanna-maria-invernizzi) |
 | 01 Dec 2017 | **[Causal Inference in Observational Studies](https://cupsmethods.github.io/Covariate-balance/)** | [Tom Leavitt](https://polisci.columbia.edu/content/tom-leavitt) |
 | 13 April 2018 <br> <strong> (2:10pm, IAB 1102) </strong> | **[R for GIS](https://cupsmethods.github.io/R-for-GIS/)** | [Oscar Pocasangre](https://polisci.columbia.edu/content/oscar-pocasangre-meneses) |
-| 4 May 2018 <br> <strong> (2:15pm, IAB 405A) </strong> | **TBA** | [Tara Slough](https://polisci.columbia.edu/content/tara-lyn-slough) |
+| 4 May 2018 <br> <strong> (2:15pm, IAB 405A) </strong> | **On the Limitations of Electoral Regression Discontinuity Designs** | [Tara Slough](https://polisci.columbia.edu/content/tara-lyn-slough) |
 
 
 ## 2016-2017 Academic Year
