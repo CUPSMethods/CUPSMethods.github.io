@@ -4,7 +4,7 @@ title: Schedule
 order: 2
 ---
 ## 2018-19 Academic Year
-The workshop will meet on **Fridays 2:30-4:30pm in Room 707 [International Affairs Building](http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html)**, except where otherwise noted below.
+The workshop will meet on **Fridays 3:30-5:00pm in Room 707 [International Affairs Building](http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html)**, except where otherwise noted below.
 
 | Date <br> (Schedule Change) | Topic | Presenter |
 |:------|:-----|:---------------|
