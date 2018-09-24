@@ -3,13 +3,27 @@ layout: page
 title: Schedule
 order: 2
 ---
+## 2018-19 Academic Year
+The workshop will meet on **Fridays 2:30-4:30pm in Room 707 [International Affairs Building](http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html)**, except where otherwise noted below.
+
+| Date <br> (Schedule Change) | Topic | Presenter |
+|:------|:-----|:---------------|
+| 28 Sept 2018 <br> <strong> (3:30pm, IAB 1201) </strong> | **[Formal Models and Lab Experiments](https://cupsmethods.github.io/Formal-models-and-lab-experiments/)** | [Giovanna Invernizzi](https://polisci.columbia.edu/content/giovanna-maria-invernizzi) |
+| 5 Oct 2018 | **[Introduction to Python](https://cupsmethods.github.io/from-r-to-python/)** | [Jeff Jacobs](http://cs.stanford.edu/people/jjacobs3/) |
+| 19 Oct 2018 | **[Web Scraping in R](https://cupsmethods.github.io/web-scraping/)** | [Erin York](http://polisci.columbia.edu/people/profile/1338) |
+| 2 Nov 2018 | **Working with Interview Data** | [Colleen Wood](https://polisci.columbia.edu/content/colleen-wood) |
+| 9 Nov 2018 | **[Introduction to GIS in R - Volume 1](https://cupsmethods.github.io/R-for-GIS/)** | [Merlin Noël Heidemanns](https://polisci.columbia.edu/content/merlin-noel-heidemanns) |
+| 30 Nov 2018 <br> <strong> (3:30pm, IAB 1201) </strong> | **RDDs: Theory and Practice** | [Pablo Argonte](https://polisci.columbia.edu/content/pablo-argote) |
+| DATE TBD | **SurveyCTO** | [Dylan Groves](https://polisci.columbia.edu/content/dylan-william-groves) |
+
+
 ## 2017 - 2018 Academic Year
 
 The workshop will meet on **Fridays 2:30-4:30pm in Room 707 [International Affairs Building](http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html)**, except where otherwise noted below.
 
 | Date <br> (Schedule Change) | Topic | Presenter |
 |:------|:-----|:---------------|
-| 22 Sep 2017 | **[How I Learned to Let Go and Love Python:An Introduction](https://cupsmethods.github.io/from-r-to-python/)** | [Joe Sutherland](http://polisci.columbia.edu/people/profile/1631) |
+| 28 Sept 2018 | **[How I Learned to Let Go and Love Python:An Introduction](https://cupsmethods.github.io/from-r-to-python/)** | [Joe Sutherland](http://polisci.columbia.edu/people/profile/1631) |
 | 06 Oct 2017 | **[Social Network Analysis](https://cupsmethods.github.io/social-network-analysis/)** | [Jeff Jacobs](http://cs.stanford.edu/people/jjacobs3/) |
 | 20 Oct 2017 | **Experimental Surveys** | [Maria Snegovayas](https://polisci.columbia.edu/content/maria-snegovaya) |
 | 27 Oct 2017 <br> <strong>(<a href="http://www.dkv.columbia.edu/columbia_edu/site/about_columbia/map/international_affairs.html">IAB</a> 711, 10:00am)</strong> | **[Conjoint Experiments in Practice](https://www.dropbox.com/s/gus14mq60y8msbx/Conjoint%20Survey%20Analysis.pdf?dl=0)** | [Erin York](https://polisci.columbia.edu/content/erin-ashley-york) and [Alicia Cooperman](https://aliciacooperman.com/)|
