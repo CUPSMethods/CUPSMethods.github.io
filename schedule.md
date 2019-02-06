@@ -14,8 +14,15 @@ The workshop will meet on **Fridays 3:30-5:00pm in Room 707 [International Affai
 | 2 Nov 2018 | **Working with Interview Data** | [Colleen Wood](https://polisci.columbia.edu/content/colleen-wood) |
 | 9 Nov 2018 | **[Introduction to GIS in R - Volume 1](https://cupsmethods.github.io/R-for-GIS/)** | [Merlin Noël Heidemanns](https://polisci.columbia.edu/content/merlin-noel-heidemanns) |
 | 30 Nov 2018 <br> <strong> (3:30pm, IAB 1201) </strong> | **RDDs: Theory and Practice** | [Pablo Argonte](https://polisci.columbia.edu/content/pablo-argote) |
-| DATE TBD | **SurveyCTO** | [Dylan Groves](https://polisci.columbia.edu/content/dylan-william-groves) |
-
+|:------|:-----|:---------------|
+| 8 Feb 2019 | **[Sentiment Analysis](https://jpowerj.github.io/tad/)** | [Jeff Jacobs](http://cs.stanford.edu/people/jjacobs3/) |
+| 15 Feb 2019 | **Topic TBD** | [Daniel Thomas](https://polisci.columbia.edu/content/daniel-robert-thomas) |
+| 22 Feb 2019 | **Bayesian Process Tracing** | [Theo Milonopoulos](https://polisci.columbia.edu/content/theo-milonopoulos) |
+| 1 Mar 2019 | **Regex Expressions** | [Julian Gerez](https://polisci.columbia.edu/content/julian-e-gerez) |
+| 8 Mar 2019 | **Bayesian Integration of Qualitative and Quantitative Evidence** | [Simone Paci](https://polisci.columbia.edu/content/simone-paci) |
+| 5 Apr 2019 | **SurveyCTO** | [Dylan Groves](https://polisci.columbia.edu/content/dylan-william-groves) |
+| 26 Apr 2019 | **[Introduction to GIS in R - Volume 2](https://cupsmethods.github.io/R-for-GIS/)** | [Merlin Noël Heidemanns](https://polisci.columbia.edu/content/merlin-noel-heidemanns) |
+| 3 May 2019 | **Design, Implementation and Analysis of Conjoint experiments** | [Anja Kilibarda](https://polisci.columbia.edu/content/anja-kilibarda) & [Julia Rubio](https://polisci.columbia.edu/content/julia-maria-rubio)  |
 
 ## 2017 - 2018 Academic Year
 
