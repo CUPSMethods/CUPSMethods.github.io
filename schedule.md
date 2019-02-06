@@ -16,7 +16,7 @@ The workshop will meet on **Fridays 3:30-5:00pm in Room 707 [International Affai
 | 30 Nov 2018 <br> <strong> (3:30pm, IAB 1201) </strong> | **RDDs: Theory and Practice** | [Pablo Argonte](https://polisci.columbia.edu/content/pablo-argote) |
 |:------|:-----|:---------------|
 | 8 Feb 2019 | **[Sentiment Analysis](https://jpowerj.github.io/tad/)** | [Jeff Jacobs](http://cs.stanford.edu/people/jjacobs3/) |
-| 15 Feb 2019 | **Topic TBD** | [Daniel Thomas](https://polisci.columbia.edu/content/daniel-robert-thomas) |
+| 15 Feb 2019 | **Conceptualizing Democracy** | [Charles Battaglini](https://polisci.columbia.edu/content/charles-gerard-thibault-battaglini) |
 | 22 Feb 2019 | **Bayesian Process Tracing** | [Theo Milonopoulos](https://polisci.columbia.edu/content/theo-milonopoulos) |
 | 1 Mar 2019 | **Regex Expressions** | [Julian Gerez](https://polisci.columbia.edu/content/julian-e-gerez) |
 | 8 Mar 2019 | **Bayesian Integration of Qualitative and Quantitative Evidence** | [Simone Paci](https://polisci.columbia.edu/content/simone-paci) |
